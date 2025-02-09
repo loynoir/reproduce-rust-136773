@@ -1,0 +1,11 @@
+{
+  "name": "reproduce-rust-136773",
+  "packageManager": "yarn@4.6.0",
+  "scripts": {
+    "clean": "rm -rf target src/bin ./src/generated_index.mjs",
+    "codegen": "node './script/codegen.mjs'",
+    "build": "cargo build -r",
+    "analyze": "node --experimental-wasm-modules ./script/analyze.mjs",
+    "reproduce": "yarn clean && yarn codegen && yarn build && yarn analyze"
+  }
+}

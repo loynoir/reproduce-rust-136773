@@ -1,0 +1,6 @@
+[package]
+name = "reproduce-rust-136773"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

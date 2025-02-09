@@ -1,0 +1,77 @@
+{
+  "core_arch_wasm32_unreachable": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_panic": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_panic_and_core_arch_wasm32_unreachable": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_panic_and_core_todo": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_panic_and_core_unimplemented": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_panic_and_core_unreachable": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_todo": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_todo_and_core_arch_wasm32_unreachable": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_todo_and_core_unimplemented": {
+    "initial_byte_length": 131072,
+    "nonzero_count": 34,
+    "nonzero_text": "not yet implementednot implemented"
+  },
+  "core_todo_and_core_unreachable": {
+    "initial_byte_length": 131072,
+    "nonzero_count": 59,
+    "nonzero_text": "not yet implementedinternal error: entered unreachable code"
+  },
+  "core_unimplemented": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_unimplemented_and_core_arch_wasm32_unreachable": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_unimplemented_and_core_unreachable": {
+    "initial_byte_length": 131072,
+    "nonzero_count": 55,
+    "nonzero_text": "not implementedinternal error: entered unreachable code"
+  },
+  "core_unreachable": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  },
+  "core_unreachable_and_core_arch_wasm32_unreachable": {
+    "initial_byte_length": 65536,
+    "nonzero_count": 0,
+    "nonzero_text": ""
+  }
+}

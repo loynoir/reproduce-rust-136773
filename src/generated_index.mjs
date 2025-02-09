@@ -1,0 +1,15 @@
+export * as generated_core_panic from "../target/wasm32-unknown-unknown/release/generated_core_panic.wasm";
+export * as generated_core_todo from "../target/wasm32-unknown-unknown/release/generated_core_todo.wasm";
+export * as generated_core_unimplemented from "../target/wasm32-unknown-unknown/release/generated_core_unimplemented.wasm";
+export * as generated_core_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_unreachable.wasm";
+export * as generated_core_arch_wasm32_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_arch_wasm32_unreachable.wasm";
+export * as generated_core_panic_and_core_todo from "../target/wasm32-unknown-unknown/release/generated_core_panic_and_core_todo.wasm";
+export * as generated_core_panic_and_core_unimplemented from "../target/wasm32-unknown-unknown/release/generated_core_panic_and_core_unimplemented.wasm";
+export * as generated_core_panic_and_core_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_panic_and_core_unreachable.wasm";
+export * as generated_core_panic_and_core_arch_wasm32_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_panic_and_core_arch_wasm32_unreachable.wasm";
+export * as generated_core_todo_and_core_unimplemented from "../target/wasm32-unknown-unknown/release/generated_core_todo_and_core_unimplemented.wasm";
+export * as generated_core_todo_and_core_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_todo_and_core_unreachable.wasm";
+export * as generated_core_todo_and_core_arch_wasm32_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_todo_and_core_arch_wasm32_unreachable.wasm";
+export * as generated_core_unimplemented_and_core_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_unimplemented_and_core_unreachable.wasm";
+export * as generated_core_unimplemented_and_core_arch_wasm32_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_unimplemented_and_core_arch_wasm32_unreachable.wasm";
+export * as generated_core_unreachable_and_core_arch_wasm32_unreachable from "../target/wasm32-unknown-unknown/release/generated_core_unreachable_and_core_arch_wasm32_unreachable.wasm";
